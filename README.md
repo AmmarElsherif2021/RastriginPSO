@@ -1,2 +1,2 @@
 # RastriginPSO
-Optimization of Rastrigin Function using PSO algorithm
+A demo of mathematical optimization of 2D functions using PSO algorithm
